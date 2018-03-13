@@ -1,0 +1,6 @@
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\bin\Release\DotNetCasClient.xml
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\bin\Release\DotNetCasClient.dll
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\bin\Release\DotNetCasClient.pdb
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\obj\Release\DotNetCasClient.csprojResolveAssemblyReference.cache
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\obj\Release\DotNetCasClient.dll
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\obj\Release\DotNetCasClient.pdb

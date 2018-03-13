@@ -1,0 +1,5 @@
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\bin\Debug\DotNetCasClient.xml
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\bin\Debug\DotNetCasClient.dll
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\bin\Debug\DotNetCasClient.pdb
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\obj\Debug\DotNetCasClient.dll
+D:\opensource\dotnet-cas-client-master\DotNetCasClient\obj\Debug\DotNetCasClient.pdb
